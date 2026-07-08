@@ -1,0 +1,61 @@
+jekyll-theme-iLotus.gemspec
+  s_231f90617936af::t_4cb132f3d83d03 4 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a4df2b8af557ceb59b19e2d","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":4}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3ebcd3244bb1793f1dc4cf2d514f07b1f7884ae7",
+  "prompts": {},
+  "sessions": {
+    "s_231f90617936af": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a4de80aaf557ceb59b19cc4",
+        "model": "openrouter-3o__max",
+        "display_model_name": "openrouter-3o"
+      },
+      "human_author": "ik0r <2631733+ik0r@users.noreply.github.com>"
+    }
+  },
+  "attestation_metadata": {
+    "jekyll-theme-iLotus.gemspec": [
+      {
+        "hash": "s_231f90617936af::t_4cb132f3d83d03",
+        "line_ranges": [
+          {
+            "Single": 4
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a4df2b8af557ceb59b19e2d",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_231f90617936af": {
+      "tool": "trae",
+      "conversation_id": "6a4de80aaf557ceb59b19cc4",
+      "session_id": "6a4de80aaf557ceb59b19cc4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_231f90617936af::t_4cb132f3d83d03": {
+      "tool": "trae",
+      "conversation_id": "6a4de80aaf557ceb59b19cc4",
+      "session_id": "6a4de80aaf557ceb59b19cc4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
