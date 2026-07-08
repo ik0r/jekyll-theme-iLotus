@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-iLotus"
+  spec.name          = "jekyll-theme-ilotus"
   spec.version       = "0.1.0"
   spec.authors       = ["ik0r"]
   spec.email         = ["github@ik0r.com"]
