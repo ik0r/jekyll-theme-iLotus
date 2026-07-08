@@ -295,7 +295,7 @@ h6 {
   background: -moz-linear-gradient( 180deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
   background: -webkit-linear-gradient( 180deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
   background: -ms-linear-gradient( 180deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
-  background: linear-gradient( to 180deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
+  background: linear-gradient( 180deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
   border-right: 1px solid #212121;
   position: fixed;
   left: 0;
@@ -473,7 +473,7 @@ h6 {
   background: -moz-linear-gradient( 180deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
   background: -webkit-linear-gradient( 180deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
   background: -ms-linear-gradient( 180deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
-  background: linear-gradient( to 180deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
+  background: linear-gradient( 180deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
   border-right: 1px solid #dfdfdf;
 }
 
@@ -591,7 +591,7 @@ h6 {
     background: -moz-linear-gradient( 90deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
     background: -webkit-linear-gradient( 90deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
     background: -ms-linear-gradient( 90deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
-    background: linear-gradient( to 90deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
+    background: linear-gradient( 90deg, #292929 0%, #404040 8%, #474747 14%, #474747 100%);
     border-left: none;
     border-bottom: 1px solid #212121;
   }
@@ -630,7 +630,7 @@ h6 {
     background: -moz-linear-gradient( 90deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
     background: -webkit-linear-gradient( 90deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
     background: -ms-linear-gradient( 90deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
-    background: linear-gradient( to 90deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
+    background: linear-gradient( 90deg, #e3e3e3 0%, #f1f1ed 8%, #f1f1ed 14%, #f1f1ed 100%);
     border-right: none;
     border-bottom: 1px solid #dfdfdf;
   }
